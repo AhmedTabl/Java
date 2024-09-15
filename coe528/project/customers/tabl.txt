@@ -1,4 +1,0 @@
-password: 123
-level: silver
-bankBalance: 9930.0
-username: tabl

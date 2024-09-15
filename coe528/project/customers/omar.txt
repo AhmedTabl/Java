@@ -1,4 +1,0 @@
-password: 2014
-level: gold
-bankBalance: 10100.0
-username: omar
