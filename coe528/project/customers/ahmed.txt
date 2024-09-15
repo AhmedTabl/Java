@@ -1,0 +1,4 @@
+password: 2014
+level: gold
+bankBalance: 11200.0
+username: ahmed

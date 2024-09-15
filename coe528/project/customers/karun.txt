@@ -1,0 +1,4 @@
+password: 123
+level: platinum
+bankBalance: 20220.0
+username: karun

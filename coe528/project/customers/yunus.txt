@@ -1,0 +1,4 @@
+password: 123
+level: gold
+bankBalance: 10100.0
+username: yunus
